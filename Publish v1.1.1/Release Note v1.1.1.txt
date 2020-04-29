@@ -1,0 +1,59 @@
+---------------------------------------- 
+                                        |
+Sito realizzato con Bootstrap Studio.   |
+                                        |
+----------------------------------------
+
+Release Note Versione: 1.0
+
+Albero del sito:
+
+- [Dir] assets
+- Index.html
+- contact-us.html
+- features.html
+- pricing.html
+
+Modifiche:
+- Index.html: Modificato nome del sito, ed altri elementi della pagina.
+
+-----------------------------------------------------------------------------------
+
+Release Note Versione 1.1
+
+Albero del sito:
+
+- [Dir] assets
+- Index.html
+- contact-us.html
+- features.html
+- pricing.html 
+
+Aggiunti:
+
+- about-us.html
+- faq.html
+- login.html
+- payment-page.html
+- pricing.html
+- registation.html
+
+-----------------------------------------------------------------------------------
+
+Release Note Versione 1.1.1
+
+Modifiche effettuate:
+
+Index.html: Aggiunto Link "Login".
+Aggiungo file onfig.php per la gestione della registrazione e login utente.
+Modificato il file regostration con script php
+https://codewithawa.com/posts/complete-user-registration-system-using-php-and-mysql-database
+
+
+
+
+
+
+
+
+
